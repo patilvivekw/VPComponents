@@ -1,6 +1,9 @@
 # VPComponents
 :zap: A powerful & easy to use components library for Android :zap:
 
+[![](https://jitpack.io/v/patilvivekw/VPComponents.svg)](https://jitpack.io/#patilvivekw/VPComponents)
+
+
 ## Table of Contents
 1. [Quick Start](#quick-start)
     1. [Gradle](#gradle-setup)
