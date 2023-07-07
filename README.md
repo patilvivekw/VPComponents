@@ -20,7 +20,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.patilvivekw:VPComponents:1.0.0'
+    implementation 'com.github.patilvivekw:VPComponents:1.0.1'
 }
 ```
 
@@ -37,7 +37,7 @@ dependencies {
 <dependency>
     <groupId>com.github.patilvivekw</groupId>
     <artifactId>VPComponents</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
